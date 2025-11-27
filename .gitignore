@@ -30,4 +30,4 @@ data/raw/*
 data/processed/*
 
 !data/raw/.gitkeep
-!data/preprocess/.gitkeep
+!data/processed/.gitkeep
