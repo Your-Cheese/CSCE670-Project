@@ -1,4 +1,8 @@
-wikiextractor
-tqdm
+sentence-transformers
+transformers
+torch
+faiss-cpu
+streamlit
 jsonlines
-
+datasets
+tqdm
